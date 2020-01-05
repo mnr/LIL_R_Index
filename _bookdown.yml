@@ -3,6 +3,7 @@ language:
   ui:
     chapter_name: "Chapter "
 delete_merged_file: true
+output_dir: "pdf_output"
 rmd_files: [
   "index.Rmd",
   "ListOfCourses.Rmd",
