@@ -1,0 +1,18 @@
+# List Of Courses {-}
+
+[Code Clinic: R](https://linkedin-learning.pxf.io/codeclinic_R)
+
+[R Programming in Data Science: Dates and Times](https://linkedin-learning.pxf.io/r_dates)
+
+[R Programming in Data Science: High Variety Data](https://linkedin-learning.pxf.io/r_highvariety)
+
+[R Programming in Data Science: High Velocity Data](https://linkedin-learning.pxf.io/r_highvelocity)
+
+[R Programming in Data Science: High Volume Data](https://linkedin-learning.pxf.io/r_highvolume)
+
+[R for Data Science: Lunchbreak Lessons](https://linkedin-learning.pxf.io/r_lunchbreak)
+
+[R Programming in Data Science: Setup and Start](https://linkedin-learning.pxf.io/setupstart)
+
+
+

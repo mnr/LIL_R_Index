@@ -1,0 +1,35 @@
+book_filename: "Index to R Language Videos and Courses on LinkedIn Learning"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+rmd_files: [
+  "index.Rmd",
+  "ListOfCourses.Rmd",
+  "A.Rmd",
+  "B.Rmd",
+  "C.Rmd",
+  "D.Rmd",
+  "E.Rmd",
+  "F.Rmd",
+  "G.Rmd",
+  "H.Rmd",
+  "I.Rmd",
+  "J.Rmd",
+  "K.Rmd",
+  "L.Rmd",
+  "M.Rmd",
+  "N.Rmd",
+  "O.Rmd",
+  "P.Rmd",
+  "Q.Rmd",
+  "R.Rmd",
+  "S.Rmd",
+  "T.Rmd",
+  "U.Rmd",
+  "V.Rmd",
+  "W.Rmd",
+  "X.Rmd",
+  "Y.Rmd",
+  "Z.Rmd",
+]

@@ -1,0 +1,3 @@
+# B {-}
+
+[Basic Data Types](https://linkedin-learning.pxf.io/rweekly_atomics)

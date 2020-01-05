@@ -1,0 +1,13 @@
+--- 
+title: "Index to LinkedIn Learning R Courses"
+author: "Mark Niemann-Ross"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+github-repo: mnr/LIL_R_Index
+description: "to come..."
+---
+# Introduction {-}
+Hello
