@@ -1,5 +1,7 @@
 # C {-}
 
+[c() ... vector](https://linkedin-learning.pxf.io/rwkly_vector)
+
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [Complex datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
