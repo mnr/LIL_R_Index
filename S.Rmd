@@ -1,5 +1,9 @@
 # S {-}
 
+str()
+
+> [...lists](https://linkedin-learning.pxf.io/rweekly_lists)
+
 [String datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [Subsetting](https://linkedin-learning.pxf.io/rweekly_subset)
