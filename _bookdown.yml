@@ -7,6 +7,7 @@ output_dir: "pdf_output"
 rmd_files: [
   "index.Rmd",
   "ListOfCourses.Rmd",
+  "authors.Rmd",
   "A.Rmd",
   "B.Rmd",
   "C.Rmd",
