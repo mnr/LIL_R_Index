@@ -1,3 +1,5 @@
 # S {-}
 
+[String datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
+
 [Subsetting](https://linkedin-learning.pxf.io/rweekly_subset)
