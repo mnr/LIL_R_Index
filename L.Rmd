@@ -2,4 +2,8 @@
 
 [length() ... vector](https://linkedin-learning.pxf.io/rwkly_vector)
 
+list
+
+[...data structure](https://linkedin-learning.pxf.io/rweekly_lists)
+
 [Logical Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
