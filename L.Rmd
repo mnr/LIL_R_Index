@@ -1,1 +1,3 @@
-# A {-}
+# L {-}
+
+[Logical Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
