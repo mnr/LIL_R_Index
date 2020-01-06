@@ -1,1 +1,5 @@
-# A {-}
+# C {-}
+
+[Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
+
+[Complex datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
