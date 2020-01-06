@@ -1,3 +1,5 @@
 # L {-}
 
+[length() ... vector](https://linkedin-learning.pxf.io/rwkly_vector)
+
 [Logical Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
