@@ -1,6 +1,6 @@
 --- 
 title: "Index to LinkedIn Learning R Courses"
-author: "Mark Niemann-Ross"
+author: "LinkedIn Learning Authors"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -10,4 +10,7 @@ github-repo: mnr/LIL_R_Index
 description: "to come..."
 ---
 # Introduction {-}
-Hello
+
+This document is an index to courses and topics on the R language available on LinkedIn Learning.
+
+The PDF of this index is available at [https://github.com/mnr/LIL_R_Index/blob/master/pdf_output/Index-to-R-Language-Videos-and-Courses-on-LinkedIn-Learning.pdf](https://github.com/mnr/LIL_R_Index/blob/master/pdf_output/Index-to-R-Language-Videos-and-Courses-on-LinkedIn-Learning.pdf)
