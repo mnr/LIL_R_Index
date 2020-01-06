@@ -1,1 +1,5 @@
-# A {-}
+# R {-}
+
+[Raw datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
+
+[Real datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
