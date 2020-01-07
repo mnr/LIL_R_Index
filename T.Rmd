@@ -1,1 +1,5 @@
-# A {-}
+# T {-}
+
+table()
+
+[... with factors](https://linkedin-learning.pxf.io/rweekly_factor)
