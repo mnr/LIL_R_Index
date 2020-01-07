@@ -2,6 +2,8 @@
 
 [length() ... vector](https://linkedin-learning.pxf.io/rwkly_vector)
 
+[levels()](https://linkedin-learning.pxf.io/rweekly_factor)
+
 list
 
 [...data structure](https://linkedin-learning.pxf.io/rweekly_lists)
