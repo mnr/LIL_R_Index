@@ -1,1 +1,3 @@
-# A {-}
+# O {-}
+
+[ordered()](https://linkedin-learning.pxf.io/rweekly_factor)
