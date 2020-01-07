@@ -1,1 +1,3 @@
-# A {-}
+# F {-}
+
+[Factors](https://linkedin-learning.pxf.io/rweekly_factor)
