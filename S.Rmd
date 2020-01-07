@@ -8,4 +8,8 @@ str()
 
 [Subsetting](https://linkedin-learning.pxf.io/rweekly_subset)
 
-[sum() ... of vector](https://linkedin-learning.pxf.io/rwkly_vector)
+sum()
+
+[... of factor](https://linkedin-learning.pxf.io/rweekly_factor)
+
+[... of vector](https://linkedin-learning.pxf.io/rwkly_vector)
