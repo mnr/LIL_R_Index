@@ -1,1 +1,7 @@
-# A {-}
+# G {-}
+
+## Graphics {-}
+
+barplot()
+
+[... with factors](https://linkedin-learning.pxf.io/rweekly_factor)
