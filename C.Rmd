@@ -1,7 +1,8 @@
 # C {-}
 
 c()
-> [c() vector](https://linkedin-learning.pxf.io/rwkly_vector)
+
+[... with vector](https://linkedin-learning.pxf.io/rwkly_vector)
 
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
