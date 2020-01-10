@@ -8,6 +8,7 @@ rmd_files: [
   "index.Rmd",
   "ListOfCourses.Rmd",
   "authors.Rmd",
+  "symbols.Rmd",
   "A.Rmd",
   "B.Rmd",
   "C.Rmd",
