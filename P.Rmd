@@ -3,3 +3,5 @@
 paste() 
 
 > [...vector](https://linkedin-learning.pxf.io/rwkly_vector)
+
+[plot()](https://linkedin-learning.pxf.io/plot)
