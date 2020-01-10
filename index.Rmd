@@ -3,6 +3,11 @@ title: "Index to LinkedIn Learning R Courses"
 author: "LinkedIn Learning Authors"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+header-includes:
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyfoot[L]{Index to LinkedIn Learning R Courses}
+  \fancyfoot[R]{\today}
 output: bookdown::gitbook
 documentclass: book
 link-citations: yes
