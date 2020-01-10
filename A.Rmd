@@ -1,6 +1,10 @@
 # A {-}
 
-[apply()](https://linkedin-learning.pxf.io/apply)
+apply
+
+> [...basic use](https://linkedin-learning.pxf.io/apply)
+
+> [...with mean()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
 [apropos()](https://linkedin-learning.pxf.io/apply)
 
