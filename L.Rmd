@@ -8,6 +8,8 @@ length()
 
 [levels()](https://linkedin-learning.pxf.io/rweekly_factor)
 
+[lines()](https://linkedin-learning.pxf.io/plot)
+
 list
 
 > [...data structure](https://linkedin-learning.pxf.io/rweekly_lists)
