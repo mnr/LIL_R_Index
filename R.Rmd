@@ -5,3 +5,5 @@
 [rbind()](https://linkedin-learning.pxf.io/rbind)
 
 [Real datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
+
+[rowMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
