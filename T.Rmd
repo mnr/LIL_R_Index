@@ -1,5 +1,7 @@
 # T {-}
 
+[t()](https://linkedin-learning.pxf.io/rweekly_matrix)
+
 table()
 
-[... with factors](https://linkedin-learning.pxf.io/rweekly_factor)
+> [...with factors](https://linkedin-learning.pxf.io/rweekly_factor)

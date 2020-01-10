@@ -1,1 +1,7 @@
-# A {-}
+# M {-}
+
+[mapply()](https://linkedin-learning.pxf.io/mapply)
+
+[Matrix](https://linkedin-learning.pxf.io/rweekly_matrix)
+
+[merge()](https://linkedin-learning.pxf.io/rweekly_sortmerge)

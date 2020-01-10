@@ -2,4 +2,16 @@
 
 [data()](https://linkedin-learning.pxf.io/rwkly_dataSets)
 
+data.frame
+
+> [...basic concept](https://linkedin-learning.pxf.io/rweekly_dataframe)
+
+> [...create a variable (column)](https://linkedin-learning.pxf.io/data.frame_read_update)
+
+> [...change a variable (column)](https://linkedin-learning.pxf.io/data.frame_read_update)
+
+> [...delete a variable (column)](https://linkedin-learning.pxf.io/data.frame_read_update)
+
 [data sets](https://linkedin-learning.pxf.io/rwkly_dataSets)
+
+[dimnames()](https://linkedin-learning.pxf.io/rweekly_array)

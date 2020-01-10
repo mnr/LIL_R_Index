@@ -1,3 +1,5 @@
 # P {-}
 
-[paste() ... vector](https://linkedin-learning.pxf.io/rwkly_vector)
+paste() 
+
+> [...vector](https://linkedin-learning.pxf.io/rwkly_vector)

@@ -1,5 +1,7 @@
 # S {-}
 
+[sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
+
 str()
 
 > [...lists](https://linkedin-learning.pxf.io/rweekly_lists)
@@ -10,6 +12,6 @@ str()
 
 sum()
 
-[... of factor](https://linkedin-learning.pxf.io/rweekly_factor)
+> [...of factor](https://linkedin-learning.pxf.io/rweekly_factor)
 
-[... of vector](https://linkedin-learning.pxf.io/rwkly_vector)
+> [...of vector](https://linkedin-learning.pxf.io/rwkly_vector)

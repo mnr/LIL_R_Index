@@ -2,7 +2,9 @@
 
 c()
 
-[... with vector](https://linkedin-learning.pxf.io/rwkly_vector)
+> [...with vector](https://linkedin-learning.pxf.io/rwkly_vector)
+
+[cbind()](https://linkedin-learning.pxf.io/rweekly_cbind)
 
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 

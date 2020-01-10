@@ -1,11 +1,15 @@
 # L {-}
 
-[length() ... vector](https://linkedin-learning.pxf.io/rwkly_vector)
+[lapply()](https://linkedin-learning.pxf.io/apply)
+
+length() 
+
+> [...vector](https://linkedin-learning.pxf.io/rwkly_vector)
 
 [levels()](https://linkedin-learning.pxf.io/rweekly_factor)
 
 list
 
-[...data structure](https://linkedin-learning.pxf.io/rweekly_lists)
+> [...data structure](https://linkedin-learning.pxf.io/rweekly_lists)
 
 [Logical Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)

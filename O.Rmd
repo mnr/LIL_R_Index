@@ -1,3 +1,5 @@
 # O {-}
 
+[order()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
+
 [ordered()](https://linkedin-learning.pxf.io/rweekly_factor)

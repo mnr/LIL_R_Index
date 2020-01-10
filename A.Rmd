@@ -1,1 +1,7 @@
 # A {-}
+
+[apply()](https://linkedin-learning.pxf.io/apply)
+
+[apropos()](https://linkedin-learning.pxf.io/apply)
+
+[Array](https://linkedin-learning.pxf.io/rweekly_array)
