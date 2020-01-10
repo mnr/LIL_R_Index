@@ -8,4 +8,8 @@ c()
 
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
+[colMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
+
+[colSums()](https://linkedin-learning.pxf.io/rweekly_colmeans)
+
 [Complex datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
