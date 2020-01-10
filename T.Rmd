@@ -5,3 +5,5 @@
 table()
 
 > [...with factors](https://linkedin-learning.pxf.io/rweekly_factor)
+
+[typeof()](https://linkedin-learning.pxf.io/braclets)
