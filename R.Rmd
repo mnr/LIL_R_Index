@@ -7,3 +7,5 @@
 [Real datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [rowMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
+
+[rsqlite](https://linkedin-learning.pxf.io/rweekly_rsqlite)

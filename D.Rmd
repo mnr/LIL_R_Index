@@ -14,4 +14,14 @@ data.frame
 
 [data sets](https://linkedin-learning.pxf.io/rwkly_dataSets)
 
+[dbConnect()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
+
+[dbDisconnect()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
+
+[dbGetQuery()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
+
+[dbReadTable()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
+
+[dbWriteTable()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
+
 [dimnames()](https://linkedin-learning.pxf.io/rweekly_array)
