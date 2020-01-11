@@ -2,6 +2,8 @@
 
 [sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
 
+[sqldf()](https://linkedin-learning.pxf.io/rweekly_sqldf)
+
 str()
 
 > [...lists](https://linkedin-learning.pxf.io/rweekly_lists)
