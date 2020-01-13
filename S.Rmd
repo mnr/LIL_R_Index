@@ -1,10 +1,12 @@
 # S {-}
 
+[sample()](https://linkedin-learning.pxf.io/rweekly_random)
+
 [sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
 
 [sqldf()](https://linkedin-learning.pxf.io/rweekly_sqldf)
 
-str()
+## str()
 
 > [...lists](https://linkedin-learning.pxf.io/rweekly_lists)
 
@@ -12,7 +14,7 @@ str()
 
 [Subsetting](https://linkedin-learning.pxf.io/rweekly_subset)
 
-sum()
+## sum()
 
 > [...of factor](https://linkedin-learning.pxf.io/rweekly_factor)
 

@@ -6,6 +6,10 @@
 
 [Real datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
+[rnorm()](https://linkedin-learning.pxf.io/rweekly_random)
+
 [rowMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
 [rsqlite](https://linkedin-learning.pxf.io/rweekly_rsqlite)
+
+[runif()](https://linkedin-learning.pxf.io/rweekly_random)
