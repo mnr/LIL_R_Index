@@ -1,7 +1,11 @@
 # P {-}
 
-paste() 
+## paste() 
 
 > [...vector](https://linkedin-learning.pxf.io/rwkly_vector)
 
+[pipeline](https://linkedin-learning.pxf.io/rweekly_pipeline)
+
 [plot()](https://linkedin-learning.pxf.io/plot)
+
+[psych](https://linkedin-learning.pxf.io/rweekly_clipboard)

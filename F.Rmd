@@ -1,3 +1,7 @@
 # F {-}
 
 [Factors](https://linkedin-learning.pxf.io/rweekly_factor)
+
+[fivenum()](https://linkedin-learning.pxf.io/rweekly_pipeline)
+
+[formatR](https://linkedin-learning.pxf.io/rweekly_styleguides)

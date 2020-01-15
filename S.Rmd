@@ -12,6 +12,8 @@
 
 [String datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
+[Style guides](https://linkedin-learning.pxf.io/rweekly_styleguides)
+
 [Subsetting](https://linkedin-learning.pxf.io/rweekly_subset)
 
 ## sum()

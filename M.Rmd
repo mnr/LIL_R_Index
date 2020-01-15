@@ -1,5 +1,7 @@
 # M {-}
 
+[magrittr](https://linkedin-learning.pxf.io/rweekly_pipeline)
+
 [mapply()](https://linkedin-learning.pxf.io/mapply)
 
 [Matrix](https://linkedin-learning.pxf.io/rweekly_matrix)

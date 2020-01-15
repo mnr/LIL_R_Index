@@ -1,3 +1,5 @@
 # Symbols {-}
 
 [ [] vs [[]] ](linkedin-learning.pxf.io/braclets)
+
+[ %>% ](https://linkedin-learning.pxf.io/rweekly_pipeline)

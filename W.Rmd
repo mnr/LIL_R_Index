@@ -1,1 +1,5 @@
-# A {-}
+# W {-}
+
+[writeClipboard()](https://linkedin-learning.pxf.io/rweekly_clipboard)
+
+[write_clip()](https://linkedin-learning.pxf.io/rweekly_clipboard)

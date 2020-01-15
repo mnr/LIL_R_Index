@@ -4,6 +4,12 @@
 
 [rbind()](https://linkedin-learning.pxf.io/rbind)
 
+[readClipboard()](https://linkedin-learning.pxf.io/rweekly_clipboard)
+
+[read.clipboard()](https://linkedin-learning.pxf.io/rweekly_clipboard)
+
+[read_clip()](https://linkedin-learning.pxf.io/rweekly_clipboard)
+
 [Real datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [rnorm()](https://linkedin-learning.pxf.io/rweekly_random)

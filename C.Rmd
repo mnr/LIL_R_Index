@@ -1,12 +1,16 @@
 # C {-}
 
-c()
+## c()
 
 > [...with vector](https://linkedin-learning.pxf.io/rwkly_vector)
 
 [cbind()](https://linkedin-learning.pxf.io/rweekly_cbind)
 
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
+
+[clipboard](https://linkedin-learning.pxf.io/rweekly_clipboard)
+
+[clipr](https://linkedin-learning.pxf.io/rweekly_clipboard)
 
 [colMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
