@@ -4,8 +4,16 @@
 
 > [...vector](https://linkedin-learning.pxf.io/rwkly_vector)
 
+[pdf()](linkedin-learning.pxf.io/rweekly_plottofile)
+
 [pipeline](https://linkedin-learning.pxf.io/rweekly_pipeline)
 
 [plot()](https://linkedin-learning.pxf.io/plot)
+
+[png()](linkedin-learning.pxf.io/rweekly_plottofile)
+
+[praise()](https://linkedin-learning.pxf.io/rweekly_fun)
+
+[praise_parts](https://linkedin-learning.pxf.io/rweekly_fun)
 
 [psych](https://linkedin-learning.pxf.io/rweekly_clipboard)

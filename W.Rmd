@@ -1,5 +1,7 @@
 # W {-}
 
+[with()](https://linkedin-learning.pxf.io/rweekly_table)
+
 [writeClipboard()](https://linkedin-learning.pxf.io/rweekly_clipboard)
 
 [write_clip()](https://linkedin-learning.pxf.io/rweekly_clipboard)

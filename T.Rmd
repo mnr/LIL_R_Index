@@ -2,8 +2,12 @@
 
 [t()](https://linkedin-learning.pxf.io/rweekly_matrix)
 
-table()
+## table()
 
 > [...with factors](https://linkedin-learning.pxf.io/rweekly_factor)
+
+> [table()](https://linkedin-learning.pxf.io/rweekly_table)
+
+[tiff()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 [typeof()](https://linkedin-learning.pxf.io/braclets)

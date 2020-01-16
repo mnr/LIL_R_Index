@@ -2,7 +2,7 @@
 
 [data()](https://linkedin-learning.pxf.io/rwkly_dataSets)
 
-data.frame
+## data.frame
 
 > [...basic concept](https://linkedin-learning.pxf.io/rweekly_dataframe)
 
@@ -23,5 +23,7 @@ data.frame
 [dbReadTable()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
 
 [dbWriteTable()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
+
+[dev.off()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 [dimnames()](https://linkedin-learning.pxf.io/rweekly_array)

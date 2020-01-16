@@ -10,6 +10,8 @@
 
 [read_clip()](https://linkedin-learning.pxf.io/rweekly_clipboard)
 
+[read.fortunes()](https://linkedin-learning.pxf.io/rweekly_fun)
+
 [Real datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [rnorm()](https://linkedin-learning.pxf.io/rweekly_random)

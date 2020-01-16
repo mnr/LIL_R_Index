@@ -11,3 +11,5 @@
 [apropos()](https://linkedin-learning.pxf.io/apply)
 
 [Array](https://linkedin-learning.pxf.io/rweekly_array)
+
+[askYesNo()](linkedin-learning.pxf.io/rweekly_askyesno)

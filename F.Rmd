@@ -5,3 +5,5 @@
 [fivenum()](https://linkedin-learning.pxf.io/rweekly_pipeline)
 
 [formatR](https://linkedin-learning.pxf.io/rweekly_styleguides)
+
+[fortune()](https://linkedin-learning.pxf.io/rweekly_fun)

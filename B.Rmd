@@ -1,7 +1,11 @@
 # B {-}
 
-barplot()
+## barplot()
 
 > [...with factors](https://linkedin-learning.pxf.io/rweekly_factor)
 
 [Basic Data Types](https://linkedin-learning.pxf.io/rweekly_atomics)
+
+[bmp()](linkedin-learning.pxf.io/rweekly_plottofile)
+
+[boxplot()](https://linkedin-learning.pxf.io/rweekly_boxplot)

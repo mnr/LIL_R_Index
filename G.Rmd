@@ -1,7 +1,17 @@
 # G {-}
 
+[gomoku()](https://linkedin-learning.pxf.io/rweekly_fun)
+
 ## Graphics {-}
 
-barplot()
+### barplot()
 
 > [...with factors](https://linkedin-learning.pxf.io/rweekly_factor)
+
+[boxplot()](https://linkedin-learning.pxf.io/rweekly_boxplot)
+
+[cdplot()](https://linkedin-learning.pxf.io/rweekly_cdplot)
+
+[coplot()](https://linkedin-learning.pxf.io/rweekly_coplot)
+
+[hist()](linkedin-learning.pxf.io/rweekly_histogram)

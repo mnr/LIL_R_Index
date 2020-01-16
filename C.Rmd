@@ -6,6 +6,8 @@
 
 [cbind()](https://linkedin-learning.pxf.io/rweekly_cbind)
 
+[cdplot()](https://linkedin-learning.pxf.io/rweekly_cdplot)
+
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [clipboard](https://linkedin-learning.pxf.io/rweekly_clipboard)
@@ -17,5 +19,9 @@
 [colSums()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
 [Complex datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
+
+[coplot()](https://linkedin-learning.pxf.io/rweekly_coplot)
+
+[cowsay()](https://linkedin-learning.pxf.io/rweekly_cowsay)
 
 [cut()](https://linkedin-learning.pxf.io/rweekly_cut)

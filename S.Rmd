@@ -2,7 +2,11 @@
 
 [sample()](https://linkedin-learning.pxf.io/rweekly_random)
 
+[say()](https://linkedin-learning.pxf.io/rweekly_cowsay)
+
 [sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
+
+[split()](https://linkedin-learning.pxf.io/rweekly_split)
 
 [sqldf()](https://linkedin-learning.pxf.io/rweekly_sqldf)
 
