@@ -6,6 +6,8 @@
 
 [pdf()](linkedin-learning.pxf.io/rweekly_plottofile)
 
+[pie()](linkedin-learning.pxf.io/rweekly_piechart)
+
 [pipeline](https://linkedin-learning.pxf.io/rweekly_pipeline)
 
 [plot()](https://linkedin-learning.pxf.io/plot)

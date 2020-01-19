@@ -6,6 +6,9 @@
 
 [Matrix](https://linkedin-learning.pxf.io/rweekly_matrix)
 
-[merge()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
+## merge
+
+> [merge and sort](https://linkedin-learning.pxf.io/rweekly_sortmerge)
+> [joins: inner and full](https://linkedin-learning.pxf.io/rweekly_innerfull)
 
 [mine_sweeper()](https://linkedin-learning.pxf.io/rweekly_fun)

@@ -1,3 +1,7 @@
 # J {-}
 
 [jpeg()](linkedin-learning.pxf.io/rweekly_plottofile)
+
+## joins
+
+> [inner and full](https://linkedin-learning.pxf.io/rweekly_innerfull)

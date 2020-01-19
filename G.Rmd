@@ -6,7 +6,7 @@
 
 ### barplot()
 
-> [...with factors](https://linkedin-learning.pxf.io/rweekly_factor)
+> [...with factors](https://linkedin-learning.pxf.io/rweekly_factor) [...general](https://linkedin-learning.pxf.io/rweekly_barplot)
 
 [boxplot()](https://linkedin-learning.pxf.io/rweekly_boxplot)
 
@@ -15,3 +15,5 @@
 [coplot()](https://linkedin-learning.pxf.io/rweekly_coplot)
 
 [hist()](linkedin-learning.pxf.io/rweekly_histogram)
+
+[pie()](linkedin-learning.pxf.io/rweekly_piechart)
