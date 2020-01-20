@@ -4,9 +4,11 @@
 
 ## Graphics {-}
 
-### barplot()
+### barplot() {-}
 
-> [...with factors](https://linkedin-learning.pxf.io/rweekly_factor) [...general](https://linkedin-learning.pxf.io/rweekly_barplot)
+> [...with factors](https://linkedin-learning.pxf.io/rweekly_factor) 
+
+>[...general](https://linkedin-learning.pxf.io/rweekly_barplot)
 
 [boxplot()](https://linkedin-learning.pxf.io/rweekly_boxplot)
 

@@ -1,6 +1,6 @@
 # C {-}
 
-## c()
+## c() {-}
 
 > [...with vector](https://linkedin-learning.pxf.io/rwkly_vector)
 

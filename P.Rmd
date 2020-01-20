@@ -1,6 +1,6 @@
 # P {-}
 
-## paste() 
+## paste() {-}
 
 > [...vector](https://linkedin-learning.pxf.io/rwkly_vector)
 

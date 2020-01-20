@@ -2,7 +2,7 @@
 
 [lapply()](https://linkedin-learning.pxf.io/apply)
 
-## length() 
+## length() {-}
 
 > [...vector](https://linkedin-learning.pxf.io/rwkly_vector)
 
@@ -12,7 +12,7 @@
 
 [lintr](https://linkedin-learning.pxf.io/rweekly_styleguides)
 
-## list
+## list {-}
 
 > [...data structure](https://linkedin-learning.pxf.io/rweekly_lists)
 
