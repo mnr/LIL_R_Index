@@ -10,5 +10,6 @@
 
 > [merge and sort](https://linkedin-learning.pxf.io/rweekly_sortmerge)
 > [joins: inner and full](https://linkedin-learning.pxf.io/rweekly_innerfull)
+> [joins: left and right](https://linkedin-learning.pxf.io/rwkly_leftrightjoin)
 
 [mine_sweeper()](https://linkedin-learning.pxf.io/rweekly_fun)

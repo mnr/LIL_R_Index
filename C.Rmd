@@ -16,6 +16,12 @@
 
 [colMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
+[colorRamp()](https://linkedin-learning.pxf.io/rwkly_colors)
+
+[colorRampPalette()](https://linkedin-learning.pxf.io/rwkly_colors)
+
+[colors()](https://linkedin-learning.pxf.io/rwkly_colors)
+
 [colSums()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
 [Complex datatype](https://linkedin-learning.pxf.io/rweekly_atomics)

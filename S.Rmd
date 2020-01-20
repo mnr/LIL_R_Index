@@ -4,6 +4,10 @@
 
 [say()](https://linkedin-learning.pxf.io/rweekly_cowsay)
 
+[setdiff()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
+
+[setequal()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
+
 [sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
 
 [split()](https://linkedin-learning.pxf.io/rweekly_split)

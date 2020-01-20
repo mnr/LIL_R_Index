@@ -1,3 +1,5 @@
 # H {-}
 
-[hist()](linkedin-learning.pxf.io/rweekly_histogram)
+## hist
+> [hist() overview](linkedin-learning.pxf.io/rweekly_histogram)
+> [hist() and colors](https://linkedin-learning.pxf.io/rwkly_colors)
