@@ -2,7 +2,7 @@
 
 [data()](https://linkedin-learning.pxf.io/rwkly_dataSets)
 
-## data.frame
+## data.frame {-}
 
 > [...basic concept](https://linkedin-learning.pxf.io/rweekly_dataframe)
 

@@ -1,8 +1,9 @@
 # B {-}
 
-## barplot()
+## barplot() {-}
 
 > [...with factors](https://linkedin-learning.pxf.io/rweekly_factor)
+
 > [...overview](https://linkedin-learning.pxf.io/rweekly_barplot)
 
 [Basic Data Types](https://linkedin-learning.pxf.io/rweekly_atomics)

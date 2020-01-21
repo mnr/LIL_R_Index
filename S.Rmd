@@ -14,7 +14,7 @@
 
 [sqldf()](https://linkedin-learning.pxf.io/rweekly_sqldf)
 
-## str()
+## str(){-}
 
 > [...lists](https://linkedin-learning.pxf.io/rweekly_lists)
 
@@ -24,7 +24,7 @@
 
 [Subsetting](https://linkedin-learning.pxf.io/rweekly_subset)
 
-## sum()
+## sum(){-}
 
 > [...of factor](https://linkedin-learning.pxf.io/rweekly_factor)
 

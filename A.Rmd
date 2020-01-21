@@ -1,6 +1,6 @@
 # A {-}
 
-## apply
+## apply {-}
 
 > [...basic use](https://linkedin-learning.pxf.io/apply)
 
