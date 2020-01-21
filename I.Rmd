@@ -1,5 +1,9 @@
 # I {-}
 
+[%in%](https://linkedin-learning.pxf.io/rweekly_equalIn)
+
 [Integer Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [intersect()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
+
+[is.element()](https://linkedin-learning.pxf.io/rweekly_equalIn)

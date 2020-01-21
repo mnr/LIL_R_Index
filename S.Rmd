@@ -6,7 +6,7 @@
 
 [setdiff()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
 
-[setequal()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
+[setequal()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff) or [setequal()](https://linkedin-learning.pxf.io/rweekly_equalIn)
 
 [sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
 
