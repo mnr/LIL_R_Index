@@ -10,6 +10,8 @@
 
 [sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
 
+[spineplot()](https://linkedin-learning.pxf.io/rweekly_spineplot)
+
 [split()](https://linkedin-learning.pxf.io/rweekly_split)
 
 [sqldf()](https://linkedin-learning.pxf.io/rweekly_sqldf)

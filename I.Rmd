@@ -1,5 +1,7 @@
 # I {-}
 
+[ifelse()](https://linkedin-learning.pxf.io/rweekly_ifelse)
+
 [%in%](https://linkedin-learning.pxf.io/rweekly_equalIn)
 
 [Integer Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)

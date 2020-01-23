@@ -6,16 +6,18 @@
 
 ### barplot() {-}
 
-> [...with factors](https://linkedin-learning.pxf.io/rweekly_factor) 
+>> [...with factors](https://linkedin-learning.pxf.io/rweekly_factor) 
 
->[...general](https://linkedin-learning.pxf.io/rweekly_barplot)
+>>[...general](https://linkedin-learning.pxf.io/rweekly_barplot)
 
-[boxplot()](https://linkedin-learning.pxf.io/rweekly_boxplot)
+>[boxplot()](https://linkedin-learning.pxf.io/rweekly_boxplot)
 
-[cdplot()](https://linkedin-learning.pxf.io/rweekly_cdplot)
+>[cdplot()](https://linkedin-learning.pxf.io/rweekly_cdplot)
 
-[coplot()](https://linkedin-learning.pxf.io/rweekly_coplot)
+>[coplot()](https://linkedin-learning.pxf.io/rweekly_coplot)
 
-[hist()](linkedin-learning.pxf.io/rweekly_histogram)
+>[hist()](linkedin-learning.pxf.io/rweekly_histogram)
 
-[pie()](linkedin-learning.pxf.io/rweekly_piechart)
+>[pie()](linkedin-learning.pxf.io/rweekly_piechart)
+
+>[spineplot()](https://linkedin-learning.pxf.io/rweekly_spineplot)
