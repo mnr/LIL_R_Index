@@ -11,3 +11,5 @@
 [bmp()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 [boxplot()](https://linkedin-learning.pxf.io/rweekly_boxplot)
+
+[browser()](https://linkedin-learning.pxf.io/rweekly_browser)

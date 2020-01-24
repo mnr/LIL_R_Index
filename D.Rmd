@@ -24,6 +24,18 @@
 
 [dbWriteTable()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
 
+## debug
+
+> [debug()](https://linkedin-learning.pxf.io/rweekly_debugonce)
+
+> [debugger](https://linkedin-learning.pxf.io/rweekly_browser)
+
+> [debugonce()](https://linkedin-learning.pxf.io/rweekly_debugonce)
+
+> [undebug()](https://linkedin-learning.pxf.io/rweekly_debugonce)
+
+[default mirror](https://linkedin-learning.pxf.io/rweekly_mirror)
+
 [dev.off()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 [dimnames()](https://linkedin-learning.pxf.io/rweekly_array)
