@@ -1,3 +1,9 @@
 # N {-}
 
+[NA](https://linkedin-learning.pxf.io/rweekly_na)
+
+[na.fail()](https://linkedin-learning.pxf.io/rweekly_na)
+
+[na.omit()](https://linkedin-learning.pxf.io/rweekly_na)
+
 [nlevels()](https://linkedin-learning.pxf.io/rweekly_factor)

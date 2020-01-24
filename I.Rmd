@@ -9,3 +9,5 @@
 [intersect()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
 
 [is.element()](https://linkedin-learning.pxf.io/rweekly_equalIn)
+
+[is.na()](https://linkedin-learning.pxf.io/rweekly_na)

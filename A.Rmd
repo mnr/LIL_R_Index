@@ -8,6 +8,8 @@
 
 [aggregate()](https://linkedin-learning.pxf.io/rweekly_aggregate)
 
+[anyNA()](https://linkedin-learning.pxf.io/rweekly_na)
+
 [apropos()](https://linkedin-learning.pxf.io/apply)
 
 [Array](https://linkedin-learning.pxf.io/rweekly_array)
