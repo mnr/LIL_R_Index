@@ -39,3 +39,5 @@
 [dev.off()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 [dimnames()](https://linkedin-learning.pxf.io/rweekly_array)
+
+[dotchart()](https://linkedin-learning.pxf.io/rweekly_dotchart)

@@ -4,6 +4,12 @@
 
 [mapply()](https://linkedin-learning.pxf.io/mapply)
 
+[match()](https://linkedin-learning.pxf.io/rweekly_simplestringmatch)
+
+[matlines()](https://linkedin-learning.pxf.io/rweek_matplot)
+
+[matplot()](https://linkedin-learning.pxf.io/rweek_matplot)
+
 [Matrix](https://linkedin-learning.pxf.io/rweekly_matrix)
 
 ## merge {-}

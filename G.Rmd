@@ -16,8 +16,20 @@
 
 >[coplot()](https://linkedin-learning.pxf.io/rweekly_coplot)
 
+>[dotchart()](https://linkedin-learning.pxf.io/rweekly_dotchart)
+
+>[fourfoldplot()](https://linkedin-learning.pxf.io/rweekly_fourfoldplot)
+
 >[hist()](linkedin-learning.pxf.io/rweekly_histogram)
+
+>[matlines()](https://linkedin-learning.pxf.io/rweek_matplot)
+
+>[matplot()](https://linkedin-learning.pxf.io/rweek_matplot)
 
 >[pie()](linkedin-learning.pxf.io/rweekly_piechart)
 
 >[spineplot()](https://linkedin-learning.pxf.io/rweekly_spineplot)
+
+[grep()](https://linkedin-learning.pxf.io/rweekly_grep)
+
+[gsub()](https://linkedin-learning.pxf.io/rweekly_grep)

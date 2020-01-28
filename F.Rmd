@@ -7,3 +7,5 @@
 [formatR](https://linkedin-learning.pxf.io/rweekly_styleguides)
 
 [fortune()](https://linkedin-learning.pxf.io/rweekly_fun)
+
+[fourfoldplot()](https://linkedin-learning.pxf.io/rweekly_fourfoldplot)

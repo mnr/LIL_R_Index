@@ -16,6 +16,8 @@
 
 [sqldf()](https://linkedin-learning.pxf.io/rweekly_sqldf)
 
+[startsWith()](https://linkedin-learning.pxf.io/rweekly_simplestringmatch)
+
 ## str(){-}
 
 > [...lists](https://linkedin-learning.pxf.io/rweekly_lists)
@@ -23,6 +25,8 @@
 [String datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [Style guides](https://linkedin-learning.pxf.io/rweekly_styleguides)
+
+[sub()](https://linkedin-learning.pxf.io/rweekly_grep)
 
 [Subsetting](https://linkedin-learning.pxf.io/rweekly_subset)
 

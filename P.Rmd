@@ -8,7 +8,11 @@
 
 [pie()](linkedin-learning.pxf.io/rweekly_piechart)
 
-[pipeline](https://linkedin-learning.pxf.io/rweekly_pipeline)
+## pipes
+
+> [pipeline](https://linkedin-learning.pxf.io/rweekly_pipeline)
+
+> [compared to with() and within()](https://linkedin-learning.pxf.io/rweekly_with)
 
 [plot()](https://linkedin-learning.pxf.io/plot)
 

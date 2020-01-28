@@ -1,6 +1,12 @@
 # W {-}
 
-[with()](https://linkedin-learning.pxf.io/rweekly_table)
+## with()
+
+> [... and table()](https://linkedin-learning.pxf.io/rweekly_table)
+
+> [with()](https://linkedin-learning.pxf.io/rweekly_with)
+
+[within()](https://linkedin-learning.pxf.io/rweekly_with)
 
 [writeClipboard()](https://linkedin-learning.pxf.io/rweekly_clipboard)
 
