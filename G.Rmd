@@ -26,9 +26,17 @@
 
 >[matplot()](https://linkedin-learning.pxf.io/rweek_matplot)
 
+>[mosaicplot()](https://linkedin-learning.pxf.io/rweekly_mosaicplot)
+
 >[pie()](linkedin-learning.pxf.io/rweekly_piechart)
 
 >[spineplot()](https://linkedin-learning.pxf.io/rweekly_spineplot)
+
+>[stemplot()](https://linkedin-learning.pxf.io/rweekly_stemplot)
+
+>[stripchart()](linkedin-learning.pxf.io/rweekly_stripchart)
+
+>[sunflowerplot()](https://linkedin-learning.pxf.io/rweekly_sunflower)
 
 [grep()](https://linkedin-learning.pxf.io/rweekly_grep)
 

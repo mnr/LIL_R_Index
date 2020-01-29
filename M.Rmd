@@ -21,3 +21,5 @@
 > [joins: left and right](https://linkedin-learning.pxf.io/rwkly_leftrightjoin)
 
 [mine_sweeper()](https://linkedin-learning.pxf.io/rweekly_fun)
+
+[mosiacplot()](https://linkedin-learning.pxf.io/rweekly_mosaicplot)

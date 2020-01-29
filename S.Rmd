@@ -18,11 +18,15 @@
 
 [startsWith()](https://linkedin-learning.pxf.io/rweekly_simplestringmatch)
 
+[stemplot()](https://linkedin-learning.pxf.io/rweekly_stemplot)
+
 ## str(){-}
 
 > [...lists](https://linkedin-learning.pxf.io/rweekly_lists)
 
 [String datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
+
+[stripchart()](linkedin-learning.pxf.io/rweekly_stripchart)
 
 [Style guides](https://linkedin-learning.pxf.io/rweekly_styleguides)
 
@@ -35,3 +39,7 @@
 > [...of factor](https://linkedin-learning.pxf.io/rweekly_factor)
 
 > [...of vector](https://linkedin-learning.pxf.io/rwkly_vector)
+
+[sunflowerplot()](https://linkedin-learning.pxf.io/rweekly_sunflower)
+
+[switch()](https://linkedin-learning.pxf.io/rweekly_switch)
