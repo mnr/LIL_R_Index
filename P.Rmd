@@ -10,7 +10,7 @@
 
 [pie()](linkedin-learning.pxf.io/rweekly_piechart)
 
-## pipes
+## pipes{-}
 
 > [pipeline](https://linkedin-learning.pxf.io/rweekly_pipeline)
 

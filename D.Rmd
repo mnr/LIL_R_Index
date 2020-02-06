@@ -28,7 +28,7 @@
 
 [dbWriteTable()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
 
-## debug
+## debug{-}
 
 > [debug()](https://linkedin-learning.pxf.io/rweekly_debugonce)
 
@@ -42,7 +42,7 @@
 
 [dev.off()](linkedin-learning.pxf.io/rweekly_plottofile)
 
-## dimnames()
+## dimnames(){-}
 
 > [...with arrays](https://linkedin-learning.pxf.io/rweekly_array)
 
