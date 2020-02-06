@@ -1,14 +1,22 @@
 # A {-}
 
+[aggregate()](https://linkedin-learning.pxf.io/rweekly_aggregate)
+
+[all()](https://linkedin-learning.pxf.io/Rweekly_anyall)
+
+[all.equal()](https://linkedin-learning.pxf.io/Rweekly_anyall)
+
+[any()](https://linkedin-learning.pxf.io/Rweekly_anyall)
+
+[anyduplicated()](https://linkedin-learning.pxf.io/Rweekly_anyall)
+
+[anyNA()](https://linkedin-learning.pxf.io/rweekly_na)
+
 ## apply {-}
 
 > [...basic use](https://linkedin-learning.pxf.io/apply)
 
 > [...with mean()](https://linkedin-learning.pxf.io/rweekly_colmeans)
-
-[aggregate()](https://linkedin-learning.pxf.io/rweekly_aggregate)
-
-[anyNA()](https://linkedin-learning.pxf.io/rweekly_na)
 
 [apropos()](https://linkedin-learning.pxf.io/apply)
 

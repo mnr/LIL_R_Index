@@ -42,4 +42,8 @@
 
 [sunflowerplot()](https://linkedin-learning.pxf.io/rweekly_sunflower)
 
-[switch()](https://linkedin-learning.pxf.io/rweekly_switch)
+## switch() {-}
+
+> [switch()](https://linkedin-learning.pxf.io/rweekly_switch)
+
+> [...switch on factors](linkedin-learning.pxf.io/rweekly_switchfactors)
