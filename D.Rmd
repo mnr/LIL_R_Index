@@ -2,6 +2,10 @@
 
 [data()](https://linkedin-learning.pxf.io/rwkly_dataSets)
 
+[dataentry()](https://linkedin-learning.pxf.io/rweekly_editfix)
+
+[data.entry()](https://linkedin-learning.pxf.io/rweekly_editfix)
+
 ## data.frame {-}
 
 > [...basic concept](https://linkedin-learning.pxf.io/rweekly_dataframe)

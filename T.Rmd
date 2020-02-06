@@ -8,6 +8,14 @@
 
 > [table()](https://linkedin-learning.pxf.io/rweekly_table)
 
+## txtProgressBar(){-}
+
+>[txtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)
+
+>[setTxtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)
+
+>[...and close()](https://linkedin-learning.pxf.io/txtprogressbar)
+
 [tiff()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 [typeof()](https://linkedin-learning.pxf.io/braclets)

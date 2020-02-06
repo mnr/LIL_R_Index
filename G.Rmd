@@ -38,6 +38,10 @@
 
 >[sunflowerplot()](https://linkedin-learning.pxf.io/rweekly_sunflower)
 
-[grep()](https://linkedin-learning.pxf.io/rweekly_grep)
+## grep() {-}
 
-[gsub()](https://linkedin-learning.pxf.io/rweekly_grep)
+> [grep()](https://linkedin-learning.pxf.io/rweekly_grep)
+
+> [...grep() and gsub()](https://linkedin-learning.pxf.io/rweekly_grep)
+
+[gsub()](https://linkedin-learning.pxf.io/rweekly_subgsub)

@@ -24,6 +24,8 @@
 
 [colSums()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
+[combn()](https://linkedin-learning.pxf.io/rweekly_combn)
+
 [Complex datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [coplot()](https://linkedin-learning.pxf.io/rweekly_coplot)

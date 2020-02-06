@@ -12,6 +12,8 @@
 
 [Matrix](https://linkedin-learning.pxf.io/rweekly_matrix)
 
+[menu()](https://linkedin-learning.pxf.io/rweekly_menu)
+
 ## merge {-}
 
 > [merge and sort](https://linkedin-learning.pxf.io/rweekly_sortmerge)

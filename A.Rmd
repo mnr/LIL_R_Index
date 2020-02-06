@@ -2,6 +2,8 @@
 
 [aggregate()](https://linkedin-learning.pxf.io/rweekly_aggregate)
 
+[agrep()](https://linkedin-learning.pxf.io/Rweekly_fuzzymatch)
+
 [all()](https://linkedin-learning.pxf.io/Rweekly_anyall)
 
 [all.equal()](https://linkedin-learning.pxf.io/Rweekly_anyall)

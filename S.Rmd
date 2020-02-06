@@ -4,9 +4,13 @@
 
 [say()](https://linkedin-learning.pxf.io/rweekly_cowsay)
 
+[select.list()](https://linkedin-learning.pxf.io/rweekly_menu)
+
 [setdiff()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
 
 [setequal()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff) or [setequal()](https://linkedin-learning.pxf.io/rweekly_equalIn)
+
+[setTxtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)
 
 [sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
 
@@ -30,7 +34,11 @@
 
 [Style guides](https://linkedin-learning.pxf.io/rweekly_styleguides)
 
-[sub()](https://linkedin-learning.pxf.io/rweekly_grep)
+## sub() {-}
+
+>[sub()](https://linkedin-learning.pxf.io/rweekly_subgsub)
+
+>[...and grep()](https://linkedin-learning.pxf.io/rweekly_grep)
 
 [Subsetting](https://linkedin-learning.pxf.io/rweekly_subset)
 
@@ -47,3 +55,5 @@
 > [switch()](https://linkedin-learning.pxf.io/rweekly_switch)
 
 > [...switch on factors](linkedin-learning.pxf.io/rweekly_switchfactors)
+
+> [...switch with menu](https://linkedin-learning.pxf.io/rweekly_menu)

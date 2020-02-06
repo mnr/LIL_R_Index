@@ -6,6 +6,8 @@
 
 [pdf()](linkedin-learning.pxf.io/rweekly_plottofile)
 
+[person()](https://linkedin-learning.pxf.io/rweekly_person)
+
 [pie()](linkedin-learning.pxf.io/rweekly_piechart)
 
 ## pipes

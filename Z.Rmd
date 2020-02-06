@@ -1,1 +1,3 @@
 # Z {-}
+
+[zeallot](https://linkedin-learning.pxf.io/rweekly_zeallot)

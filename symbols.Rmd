@@ -4,6 +4,8 @@
 
 [ %>% ](https://linkedin-learning.pxf.io/rweekly_pipeline)
 
+[%<-%](https://linkedin-learning.pxf.io/rweekly_zeallot)
+
 ## %in%
 
 > [... %in% and equals ](https://linkedin-learning.pxf.io/rweekly_equalIn)
