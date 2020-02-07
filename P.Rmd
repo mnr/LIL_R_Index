@@ -1,5 +1,7 @@
 # P {-}
 
+[passwords](https://linkedin-learning.pxf.io/rweekly_password)
+
 ## paste() {-}
 
 > [...vector](https://linkedin-learning.pxf.io/rwkly_vector)

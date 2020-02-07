@@ -4,6 +4,8 @@
 
 [%in%](https://linkedin-learning.pxf.io/rweekly_equalIn)
 
+[intToBits()](https://linkedin-learning.pxf.io/rweekly_bitwise)
+
 [Integer Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
 [intersect()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)

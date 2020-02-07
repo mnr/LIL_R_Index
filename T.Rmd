@@ -1,12 +1,18 @@
 # T {-}
 
-[t()](https://linkedin-learning.pxf.io/rweekly_matrix)
+##t(){-}
+
+>[t()](https://linkedin-learning.pxf.io/rweekly_matrix)
+
+>[t() and data.frames](https://linkedin-learning.pxf.io/rweekly_transpose)
 
 ## table(){-}
 
 > [...with factors](https://linkedin-learning.pxf.io/rweekly_factor)
 
 > [table()](https://linkedin-learning.pxf.io/rweekly_table)
+
+[tapply() vs by()](https://linkedin-learning.pxf.io/rweekly_by)
 
 ## txtProgressBar(){-}
 

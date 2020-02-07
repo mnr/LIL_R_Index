@@ -8,8 +8,20 @@
 
 [Basic Data Types](https://linkedin-learning.pxf.io/rweekly_atomics)
 
+[bitwAnd()](https://linkedin-learning.pxf.io/rweekly_bitwise)
+
+[bitwOr()](https://linkedin-learning.pxf.io/rweekly_bitwise)
+
+[bitwShiftL()](https://linkedin-learning.pxf.io/rweekly_bitwise)
+
+[bitwShiftR()](https://linkedin-learning.pxf.io/rweekly_bitwise)
+
+[bitwXor](https://linkedin-learning.pxf.io/rweekly_bitwise)
+
 [bmp()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 [boxplot()](https://linkedin-learning.pxf.io/rweekly_boxplot)
 
 [browser()](https://linkedin-learning.pxf.io/rweekly_browser)
+
+[by()](https://linkedin-learning.pxf.io/rweekly_by)

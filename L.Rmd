@@ -1,6 +1,10 @@
 # L {-}
 
-[lapply()](https://linkedin-learning.pxf.io/apply)
+## lapply{-}
+
+> [lapply()](https://linkedin-learning.pxf.io/apply)
+
+> [...vs by()](https://linkedin-learning.pxf.io/rweekly_by)
 
 ## length() {-}
 
