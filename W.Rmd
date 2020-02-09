@@ -1,5 +1,7 @@
 # W {-}
 
+[weighted.mean()](linkedin-learning.pxf.io/rweekly_weightedmean)
+
 ## with(){-}
 
 > [... and table()](https://linkedin-learning.pxf.io/rweekly_table)

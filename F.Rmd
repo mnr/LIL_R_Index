@@ -6,6 +6,14 @@
 
 [fix()](https://linkedin-learning.pxf.io/rweekly_editfix)
 
+##flow control{-}
+
+>[ifelse()](https://linkedin-learning.pxf.io/rweekly_ifelse)
+
+>[stopifnot](https://linkedin-learning.pxf.io/rweekly_stopifnot)
+
+>[switch()](https://linkedin-learning.pxf.io/rweekly_switch)
+
 [formatR](https://linkedin-learning.pxf.io/rweekly_styleguides)
 
 [fortune()](https://linkedin-learning.pxf.io/rweekly_fun)

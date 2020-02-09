@@ -2,11 +2,15 @@
 
 ## c() {-}
 
-> [...with vector](https://linkedin-learning.pxf.io/rwkly_vector)
+>[...with vector](https://linkedin-learning.pxf.io/rwkly_vector)
+
+>[...with different types](https://linkedin-learning.pxf.io/rweekly_combine)
 
 [cbind()](https://linkedin-learning.pxf.io/rweekly_cbind)
 
 [cdplot()](https://linkedin-learning.pxf.io/rweekly_cdplot)
+
+[chartr()](https://linkedin-learning.pxf.io/rweekly_chartr)
 
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 

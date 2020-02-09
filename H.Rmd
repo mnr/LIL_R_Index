@@ -1,5 +1,7 @@
 # H {-}
 
+[heatmap()](https://linkedin-learning.pxf.io/rweekly_heatmap)
+
 ## hist{-}
 > [hist() overview](linkedin-learning.pxf.io/rweekly_histogram)
 

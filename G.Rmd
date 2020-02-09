@@ -20,6 +20,8 @@
 
 >[fourfoldplot()](https://linkedin-learning.pxf.io/rweekly_fourfoldplot)
 
+>[heatmap()](https://linkedin-learning.pxf.io/rweekly_heatmap)
+
 >[hist()](linkedin-learning.pxf.io/rweekly_histogram)
 
 >[matlines()](https://linkedin-learning.pxf.io/rweek_matplot)

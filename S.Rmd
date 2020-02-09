@@ -24,6 +24,8 @@
 
 [stemplot()](https://linkedin-learning.pxf.io/rweekly_stemplot)
 
+[stopifnot()](https://linkedin-learning.pxf.io/rweekly_stopifnot)
+
 ## str(){-}
 
 > [...lists](https://linkedin-learning.pxf.io/rweekly_lists)
