@@ -24,4 +24,6 @@
 
 [list.files()](https://linkedin-learning.pxf.io/rweekly_filechoose)
 
+[load()](https://linkedin-learning.pxf.io/rweekly_loadsave)
+
 [Logical Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)

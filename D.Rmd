@@ -49,3 +49,5 @@
 > [...overview](https://linkedin-learning.pxf.io/rweekly_dimnames)
 
 [dotchart()](https://linkedin-learning.pxf.io/rweekly_dotchart)
+
+[duplicated()](https://linkedin-learning.pxf.io/rweekly_dup_uniq)

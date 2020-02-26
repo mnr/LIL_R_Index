@@ -10,6 +10,8 @@
 
 [cdplot()](https://linkedin-learning.pxf.io/rweekly_cdplot)
 
+[ceiling()](https://linkedin-learning.pxf.io/rweekly_round)
+
 [chartr()](https://linkedin-learning.pxf.io/rweekly_chartr)
 
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)

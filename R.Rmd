@@ -16,6 +16,8 @@
 
 [rnorm()](https://linkedin-learning.pxf.io/rweekly_random)
 
+[round()](https://linkedin-learning.pxf.io/rweekly_round)
+
 [rowMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
 [rsqlite](https://linkedin-learning.pxf.io/rweekly_rsqlite)

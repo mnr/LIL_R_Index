@@ -2,6 +2,8 @@
 
 [sample()](https://linkedin-learning.pxf.io/rweekly_random)
 
+[save()](https://linkedin-learning.pxf.io/rweekly_loadsave)
+
 [say()](https://linkedin-learning.pxf.io/rweekly_cowsay)
 
 [select.list()](https://linkedin-learning.pxf.io/rweekly_menu)
@@ -11,6 +13,8 @@
 [setequal()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff) or [setequal()](https://linkedin-learning.pxf.io/rweekly_equalIn)
 
 [setTxtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)
+
+[signif()](https://linkedin-learning.pxf.io/rweekly_round)
 
 [sort()](https://linkedin-learning.pxf.io/rweekly_sortmerge)
 

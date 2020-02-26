@@ -24,4 +24,6 @@
 
 [Array](https://linkedin-learning.pxf.io/rweekly_array)
 
+[as.integer()](https://linkedin-learning.pxf.io/rweekly_round)
+
 [askYesNo()](linkedin-learning.pxf.io/rweekly_askyesno)

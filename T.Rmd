@@ -16,6 +16,10 @@
 
 [tar](https://linkedin-learning.pxf.io/rweekly_ziptar)
 
+[tiff()](linkedin-learning.pxf.io/rweekly_plottofile)
+
+[trunc()](https://linkedin-learning.pxf.io/rweekly_round)
+
 ## txtProgressBar(){-}
 
 >[txtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)
@@ -23,7 +27,5 @@
 >[setTxtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)
 
 >[...and close()](https://linkedin-learning.pxf.io/txtprogressbar)
-
-[tiff()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 [typeof()](https://linkedin-learning.pxf.io/braclets)

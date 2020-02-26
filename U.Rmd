@@ -4,6 +4,8 @@
 
 [union()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
 
+[unique()](https://linkedin-learning.pxf.io/rweekly_dup_uniq)
+
 [unlist()](https://linkedin-learning.pxf.io/rweekly_unlist)
 
 [updateR()](https://linkedin-learning.pxf.io/rweekly_update)

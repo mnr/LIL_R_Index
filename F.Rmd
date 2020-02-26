@@ -8,6 +8,8 @@
 
 [fix()](https://linkedin-learning.pxf.io/rweekly_editfix)
 
+[floor()](https://linkedin-learning.pxf.io/rweekly_round)
+
 ##flow control{-}
 
 >[ifelse()](https://linkedin-learning.pxf.io/rweekly_ifelse)
