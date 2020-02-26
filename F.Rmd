@@ -2,6 +2,8 @@
 
 [Factors](https://linkedin-learning.pxf.io/rweekly_factor)
 
+[file.choose](https://linkedin-learning.pxf.io/rweekly_filechoose)
+
 [fivenum()](https://linkedin-learning.pxf.io/rweekly_pipeline)
 
 [fix()](https://linkedin-learning.pxf.io/rweekly_editfix)

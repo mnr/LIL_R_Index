@@ -20,4 +20,8 @@
 
 > [...data structure](https://linkedin-learning.pxf.io/rweekly_lists)
 
+[list.dirs()](https://linkedin-learning.pxf.io/rweekly_filechoose)
+
+[list.files()](https://linkedin-learning.pxf.io/rweekly_filechoose)
+
 [Logical Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)

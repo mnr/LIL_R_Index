@@ -14,6 +14,10 @@
 
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
+[choose.dirs()](https://linkedin-learning.pxf.io/rweekly_filechoose)
+
+[choose.files()](https://linkedin-learning.pxf.io/rweekly_filechoose)
+
 [clipboard](https://linkedin-learning.pxf.io/rweekly_clipboard)
 
 [clipr](https://linkedin-learning.pxf.io/rweekly_clipboard)
