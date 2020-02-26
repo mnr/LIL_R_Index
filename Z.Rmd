@@ -1,3 +1,5 @@
 # Z {-}
 
 [zeallot](https://linkedin-learning.pxf.io/rweekly_zeallot)
+
+[zip](https://linkedin-learning.pxf.io/rweekly_ziptar)

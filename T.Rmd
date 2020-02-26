@@ -14,6 +14,8 @@
 
 [tapply() vs by()](https://linkedin-learning.pxf.io/rweekly_by)
 
+[tar](https://linkedin-learning.pxf.io/rweekly_ziptar)
+
 ## txtProgressBar(){-}
 
 >[txtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)
