@@ -3,3 +3,5 @@
 [edit()](https://linkedin-learning.pxf.io/rweekly_editfix)
 
 [endsWith()](https://linkedin-learning.pxf.io/rweekly_simplestringmatch)
+
+[expand.grid()](https://linkedin-learning.pxf.io/rweekly_expandGrid)

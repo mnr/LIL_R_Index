@@ -1,3 +1,5 @@
 # X {-}
 
+[xor](https://linkedin-learning.pxf.io/rweekly_logOps)
+
 [xytable()](https://linkedin-learning.pxf.io/rweekly_sunflower)

@@ -6,6 +6,8 @@
 
 >[...with different types](https://linkedin-learning.pxf.io/rweekly_combine)
 
+>[...to simplify](https://linkedin-learning.pxf.io/rweekly_csimplify)
+
 [cbind()](https://linkedin-learning.pxf.io/rweekly_cbind)
 
 [cdplot()](https://linkedin-learning.pxf.io/rweekly_cdplot)
@@ -13,6 +15,8 @@
 [ceiling()](https://linkedin-learning.pxf.io/rweekly_round)
 
 [chartr()](https://linkedin-learning.pxf.io/rweekly_chartr)
+
+[char.expand()](https://linkedin-learning.pxf.io/rweekly_charexpand)
 
 [Character datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
