@@ -16,6 +16,8 @@
 
 >[ifelse()](https://linkedin-learning.pxf.io/rweekly_ifelse)
 
+>[repeat{}](https://linkedin-learning.pxf.io/rweekly_repeatloop)
+
 >[stopifnot](https://linkedin-learning.pxf.io/rweekly_stopifnot)
 
 >[switch()](https://linkedin-learning.pxf.io/rweekly_switch)

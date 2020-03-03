@@ -56,7 +56,11 @@
 
 [sunflowerplot()](https://linkedin-learning.pxf.io/rweekly_sunflower)
 
-[swirl()](https://linkedin-learning.pxf.io/rweekly_swirl)
+## Swirl{-}
+
+>[swirl()](https://linkedin-learning.pxf.io/rweekly_swirl)
+
+>[make a swirl](https://linkedin-learning.pxf.io/rweekly_makeSwirl)
 
 ## switch() {-}
 

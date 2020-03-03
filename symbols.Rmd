@@ -4,7 +4,11 @@
 
 [&](https://linkedin-learning.pxf.io/rweekly_logOps)
 
+[&&](https://linkedin-learning.pxf.io/rweekly_logicops)
+
 [|](https://linkedin-learning.pxf.io/rweekly_logOps)
+
+[||](https://linkedin-learning.pxf.io/rweekly_logicops)
 
 [ [] vs [[]] ](linkedin-learning.pxf.io/braclets)
 
