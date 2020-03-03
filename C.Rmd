@@ -38,7 +38,13 @@
 
 [colSums()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
-[combn()](https://linkedin-learning.pxf.io/rweekly_combn)
+## combn() {-}
+
+> [combn()](https://linkedin-learning.pxf.io/rweekly_combn)
+
+> [vs expand.grid()](https://linkedin-learning.pxf.io/rweekly_expandgrid)
+
+[complete.cases()](https://linkedin-learning.pxf.io/rweekly_completecases)
 
 [Complex datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 

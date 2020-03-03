@@ -20,6 +20,8 @@
 
 [trunc()](https://linkedin-learning.pxf.io/rweekly_round)
 
+[tryCatch()](https://linkedin-learning.pxf.io/rweekly_trycatch)
+
 ## txtProgressBar(){-}
 
 >[txtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)

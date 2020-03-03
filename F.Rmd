@@ -12,11 +12,17 @@
 
 ##flow control{-}
 
+>[for{}](https://linkedin-learning.pxf.io/rweekly_forloop)
+
 >[ifelse()](https://linkedin-learning.pxf.io/rweekly_ifelse)
 
 >[stopifnot](https://linkedin-learning.pxf.io/rweekly_stopifnot)
 
 >[switch()](https://linkedin-learning.pxf.io/rweekly_switch)
+
+>[while(){}](https://linkedin-learning.pxf.io/rweekly_while)
+
+[for {}](https://linkedin-learning.pxf.io/rweekly_forloop)
 
 [formatR](https://linkedin-learning.pxf.io/rweekly_styleguides)
 

@@ -2,6 +2,8 @@
 
 [weighted.mean()](linkedin-learning.pxf.io/rweekly_weightedmean)
 
+[while(){}](https://linkedin-learning.pxf.io/rweekly_while)
+
 ## with(){-}
 
 > [... and table()](https://linkedin-learning.pxf.io/rweekly_table)
