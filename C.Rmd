@@ -28,6 +28,8 @@
 
 [clipr](https://linkedin-learning.pxf.io/rweekly_clipboard)
 
+[col()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
+
 [colMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
 [colorRamp()](https://linkedin-learning.pxf.io/rwkly_colors)
@@ -51,5 +53,13 @@
 [coplot()](https://linkedin-learning.pxf.io/rweekly_coplot)
 
 [cowsay()](https://linkedin-learning.pxf.io/rweekly_cowsay)
+
+[cummax()](https://linkedin-learning.pxf.io/rweekly_CUMminmaxprodsum)
+
+[cummin()](https://linkedin-learning.pxf.io/rweekly_CUMminmaxprodsum)
+
+[cumprod()](https://linkedin-learning.pxf.io/rweekly_CUMminmaxprodsum)
+
+[cumsum()](https://linkedin-learning.pxf.io/rweekly_CUMminmaxprodsum)
 
 [cut()](https://linkedin-learning.pxf.io/rweekly_cut)

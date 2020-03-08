@@ -26,4 +26,6 @@
 
 [as.integer()](https://linkedin-learning.pxf.io/rweekly_round)
 
+[as.matrix()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
+
 [askYesNo()](linkedin-learning.pxf.io/rweekly_askyesno)

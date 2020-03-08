@@ -20,6 +20,8 @@
 
 [round()](https://linkedin-learning.pxf.io/rweekly_round)
 
+[row()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
+
 [rowMeans()](https://linkedin-learning.pxf.io/rweekly_colmeans)
 
 [rsqlite](https://linkedin-learning.pxf.io/rweekly_rsqlite)
