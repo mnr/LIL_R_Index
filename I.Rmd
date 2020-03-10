@@ -13,3 +13,5 @@
 [is.element()](https://linkedin-learning.pxf.io/rweekly_equalIn)
 
 [is.na()](https://linkedin-learning.pxf.io/rweekly_na)
+
+[isSymmetric()](https://linkedin-learning.pxf.io/rweekly_issymetric)

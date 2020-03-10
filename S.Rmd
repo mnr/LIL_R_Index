@@ -2,7 +2,11 @@
 
 [sample()](https://linkedin-learning.pxf.io/rweekly_random)
 
-[save()](https://linkedin-learning.pxf.io/rweekly_loadsave)
+## save{-}
+
+> [save()](https://linkedin-learning.pxf.io/rweekly_loadsave)
+
+> [save() vs dput()](https://linkedin-learning.pxf.io/rweekly_dputdget)
 
 [say()](https://linkedin-learning.pxf.io/rweekly_cowsay)
 

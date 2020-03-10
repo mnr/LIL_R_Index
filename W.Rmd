@@ -14,6 +14,8 @@
 
 [within()](https://linkedin-learning.pxf.io/rweekly_with)
 
+[write.csv() vs dput()](https://linkedin-learning.pxf.io/rweekly_dputdget)
+
 [writeClipboard()](https://linkedin-learning.pxf.io/rweekly_clipboard)
 
 [write_clip()](https://linkedin-learning.pxf.io/rweekly_clipboard)

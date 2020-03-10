@@ -2,7 +2,17 @@
 
 [Factors](https://linkedin-learning.pxf.io/rweekly_factor)
 
+[file.access()](https://linkedin-learning.pxf.io/rweekly_fileaccess)
+
 [file.choose](https://linkedin-learning.pxf.io/rweekly_filechoose)
+
+[file.info()](https://linkedin-learning.pxf.io/rweekly_fileinfo)
+
+[file.mode()](https://linkedin-learning.pxf.io/rweekly_fileinfo)
+
+[file.mtime()](https://linkedin-learning.pxf.io/rweekly_fileinfo)
+
+[file.size()](https://linkedin-learning.pxf.io/rweekly_fileinfo)
 
 [fivenum()](https://linkedin-learning.pxf.io/rweekly_pipeline)
 

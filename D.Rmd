@@ -50,4 +50,8 @@
 
 [dotchart()](https://linkedin-learning.pxf.io/rweekly_dotchart)
 
+[dget()](https://linkedin-learning.pxf.io/rweekly_dputdget)
+
+[dput()](https://linkedin-learning.pxf.io/rweekly_dputdget)
+
 [duplicated()](https://linkedin-learning.pxf.io/rweekly_dup_uniq)
