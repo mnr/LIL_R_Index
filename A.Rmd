@@ -24,8 +24,24 @@
 
 [Array](https://linkedin-learning.pxf.io/rweekly_array)
 
+## as.Date{-}
+
+> [as.Date()](https://linkedin-learning.pxf.io/rdatesHowstored)
+
+> [when to use as.Date()](https://linkedin-learning.pxf.io/rdatesChooseTool)
+
+> [class returned](https://linkedin-learning.pxf.io/rdatesDateClass)
+
 [as.integer()](https://linkedin-learning.pxf.io/rweekly_round)
 
 [as.matrix()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
+
+## as.POSIX{-}
+
+>[as.POSIXct()](https://linkedin-learning.pxf.io/rdatesHowstored)
+
+>[as.POSIXlt()](https://linkedin-learning.pxf.io/rdatesHowstored)
+
+>[when to use as.POSIXct or as.POSIXlt](https://linkedin-learning.pxf.io/rdatesChooseTool)
 
 [askYesNo()](linkedin-learning.pxf.io/rweekly_askyesno)

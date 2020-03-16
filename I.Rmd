@@ -14,4 +14,6 @@
 
 [is.na()](https://linkedin-learning.pxf.io/rweekly_na)
 
+[ISOdate()](https://linkedin-learning.pxf.io/rdatesDateClass)
+
 [isSymmetric()](https://linkedin-learning.pxf.io/rweekly_issymetric)

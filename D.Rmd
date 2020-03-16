@@ -42,6 +42,10 @@
 
 [dev.off()](linkedin-learning.pxf.io/rweekly_plottofile)
 
+[diag()](https://linkedin-learning.pxf.io/rweeklydiag)
+
+[difftime()](https://linkedin-learning.pxf.io/rdatesHowstored)
+
 ## dimnames(){-}
 
 > [...with arrays](https://linkedin-learning.pxf.io/rweekly_array)

@@ -42,6 +42,8 @@
 
 [stripchart()](linkedin-learning.pxf.io/rweekly_stripchart)
 
+[strptime()](https://linkedin-learning.pxf.io/rdatesHowstored)
+
 [Style guides](https://linkedin-learning.pxf.io/rweekly_styleguides)
 
 ## sub() {-}
@@ -73,3 +75,5 @@
 > [...switch on factors](linkedin-learning.pxf.io/rweekly_switchfactors)
 
 > [...switch with menu](https://linkedin-learning.pxf.io/rweekly_menu)
+
+[Sys.Date()](https://linkedin-learning.pxf.io/rdatesDateClass)

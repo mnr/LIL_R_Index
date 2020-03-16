@@ -22,6 +22,8 @@
 
 [tryCatch()](https://linkedin-learning.pxf.io/rweekly_trycatch)
 
+[ts()](https://linkedin-learning.pxf.io/rdatesHowstored)
+
 ## txtProgressBar(){-}
 
 >[txtProgressBar()](https://linkedin-learning.pxf.io/txtprogressbar)
