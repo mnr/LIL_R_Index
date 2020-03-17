@@ -12,6 +12,10 @@
 
 [select.list()](https://linkedin-learning.pxf.io/rweekly_menu)
 
+[seq.date()](https://linkedin-learning.pxf.io/rdatesCompare)
+
+[seq.POSIXt()](https://linkedin-learning.pxf.io/rdatesCompare)
+
 [setdiff()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
 
 [setequal()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff) or [setequal()](https://linkedin-learning.pxf.io/rweekly_equalIn)
@@ -42,7 +46,13 @@
 
 [stripchart()](linkedin-learning.pxf.io/rweekly_stripchart)
 
-[strptime()](https://linkedin-learning.pxf.io/rdatesHowstored)
+[strftime()](https://linkedin-learning.pxf.io/rdatesDSTTZ)
+
+## strptime{-}
+
+>[strptime()](https://linkedin-learning.pxf.io/rdatesHowstored)
+
+>[...with format = ](https://linkedin-learning.pxf.io/rdatesStringFormat)
 
 [Style guides](https://linkedin-learning.pxf.io/rweekly_styleguides)
 
@@ -77,3 +87,5 @@
 > [...switch with menu](https://linkedin-learning.pxf.io/rweekly_menu)
 
 [Sys.Date()](https://linkedin-learning.pxf.io/rdatesDateClass)
+
+[Sys.timezone()](https://linkedin-learning.pxf.io/rdatesDSTTZ)

@@ -1,5 +1,13 @@
 # Symbols {-}
 
+## <{-}
+
+>[...with dates](https://linkedin-learning.pxf.io/rdatesCompare)
+
+## <={-}
+
+>[...with dates](https://linkedin-learning.pxf.io/rdatesCompare)
+
 [!](https://linkedin-learning.pxf.io/rweekly_logOps)
 
 [&](https://linkedin-learning.pxf.io/rweekly_logOps)

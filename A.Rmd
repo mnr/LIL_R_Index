@@ -32,6 +32,8 @@
 
 > [class returned](https://linkedin-learning.pxf.io/rdatesDateClass)
 
+> [...with format = ...](https://linkedin-learning.pxf.io/rdatesStringFormat)
+
 [as.integer()](https://linkedin-learning.pxf.io/rweekly_round)
 
 [as.matrix()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
@@ -41,6 +43,10 @@
 >[as.POSIXct()](https://linkedin-learning.pxf.io/rdatesHowstored)
 
 >[as.POSIXlt()](https://linkedin-learning.pxf.io/rdatesHowstored)
+
+>[...with format = ](https://linkedin-learning.pxf.io/rdatesDSTTZ)
+
+>[...with timezone ](https://linkedin-learning.pxf.io/rdatesDSTTZ)
 
 >[when to use as.POSIXct or as.POSIXlt](https://linkedin-learning.pxf.io/rdatesChooseTool)
 
