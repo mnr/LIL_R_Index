@@ -18,7 +18,11 @@
 
 [tiff()](linkedin-learning.pxf.io/rweekly_plottofile)
 
-[trunc()](https://linkedin-learning.pxf.io/rweekly_round)
+## trunc{-}
+
+>[trunc()](https://linkedin-learning.pxf.io/rweekly_round)
+
+>[trunc() and dates](https://linkedin-learning.pxf.io/rdatesCutSeq)
 
 [tryCatch()](https://linkedin-learning.pxf.io/rweekly_trycatch)
 

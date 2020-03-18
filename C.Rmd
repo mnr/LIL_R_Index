@@ -62,4 +62,8 @@
 
 [cumsum()](https://linkedin-learning.pxf.io/rweekly_CUMminmaxprodsum)
 
-[cut()](https://linkedin-learning.pxf.io/rweekly_cut)
+## cut{-}
+
+>[cut()](https://linkedin-learning.pxf.io/rweekly_cut)
+
+>[cut() and dates](https://linkedin-learning.pxf.io/rdatesCutSeq)

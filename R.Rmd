@@ -18,7 +18,11 @@
 
 [rnorm()](https://linkedin-learning.pxf.io/rweekly_random)
 
-[round()](https://linkedin-learning.pxf.io/rweekly_round)
+## round{-}
+
+> [round()](https://linkedin-learning.pxf.io/rweekly_round)
+
+> [round() and dates](https://linkedin-learning.pxf.io/rdatesCutSeq)
 
 [row()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
 

@@ -12,9 +12,15 @@
 
 [select.list()](https://linkedin-learning.pxf.io/rweekly_menu)
 
-[seq.date()](https://linkedin-learning.pxf.io/rdatesCompare)
+## sequence dates{-}
 
-[seq.POSIXt()](https://linkedin-learning.pxf.io/rdatesCompare)
+>[seq.date() using "by"](https://linkedin-learning.pxf.io/rdatesCutSeq)
+
+>[seq.date() - comparisons](https://linkedin-learning.pxf.io/rdatesCompare)
+
+>[seq.POSIXt()](https://linkedin-learning.pxf.io/rdatesCompare)
+
+>[seq.POSIXt() using "by"](https://linkedin-learning.pxf.io/rdatesCutSeq)
 
 [setdiff()](https://linkedin-learning.pxf.io/Rweekly_setsUnionInterDiff)
 
