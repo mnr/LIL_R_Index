@@ -1,0 +1,9 @@
+
+<script src="https://utteranc.es/client.js"
+        repo="mnr/LIL_R_Index"
+        issue-term="title"
+        label="feedback"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
