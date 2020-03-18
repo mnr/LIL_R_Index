@@ -1,1 +1,3 @@
 # Q {-}
+
+[quarters()](https://linkedin-learning.pxf.io/rdatesExtractParts)

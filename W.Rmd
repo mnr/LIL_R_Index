@@ -1,5 +1,7 @@
 # W {-}
 
+[weekdays()](https://linkedin-learning.pxf.io/rdatesExtractParts)
+
 [weighted.mean()](linkedin-learning.pxf.io/rweekly_weightedmean)
 
 [which()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
