@@ -36,6 +36,8 @@
 
 [for {}](https://linkedin-learning.pxf.io/rweekly_forloop)
 
+[format()](https://linkedin-learning.pxf.io/rdatesFormatting)
+
 [formatR](https://linkedin-learning.pxf.io/rweekly_styleguides)
 
 [fortune()](https://linkedin-learning.pxf.io/rweekly_fun)

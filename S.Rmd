@@ -52,7 +52,11 @@
 
 [stripchart()](linkedin-learning.pxf.io/rweekly_stripchart)
 
-[strftime()](https://linkedin-learning.pxf.io/rdatesDSTTZ)
+## strftime{-}
+
+>[strftime()](https://linkedin-learning.pxf.io/rdatesDSTTZ)
+
+>[comparing strftime to other options](https://linkedin-learning.pxf.io/rdatesFormatting)
 
 ## strptime{-}
 
