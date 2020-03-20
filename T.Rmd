@@ -20,6 +20,8 @@
 
 [tiff()](linkedin-learning.pxf.io/rweekly_plottofile)
 
+[today()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
 ## trunc{-}
 
 >[trunc()](https://linkedin-learning.pxf.io/rweekly_round)

@@ -12,6 +12,8 @@
 
 [Matrix](https://linkedin-learning.pxf.io/rweekly_matrix)
 
+[mdy_hm()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
 [menu()](https://linkedin-learning.pxf.io/rweekly_menu)
 
 ## merge {-}

@@ -10,6 +10,14 @@
 
 [read_clip()](https://linkedin-learning.pxf.io/rweekly_clipboard)
 
+## read.csv{-}
+
+>[read.csv() with colClasses for date import](https://linkedin-learning.pxf.io/rdatesImportCSV)
+
+## read_csv{-}
+
+>[read_csv() with col_types for date import](https://linkedin-learning.pxf.io/rdatesImportCSV)
+
 [read.fortunes()](https://linkedin-learning.pxf.io/rweekly_fun)
 
 [Real datatype](https://linkedin-learning.pxf.io/rweekly_atomics)

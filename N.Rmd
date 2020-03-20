@@ -7,3 +7,5 @@
 [na.omit()](https://linkedin-learning.pxf.io/rweekly_na)
 
 [nlevels()](https://linkedin-learning.pxf.io/rweekly_factor)
+
+[now()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)

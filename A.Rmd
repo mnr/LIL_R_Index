@@ -34,6 +34,12 @@
 
 > [...with format = ...](https://linkedin-learning.pxf.io/rdatesStringFormat)
 
+## as_date{-}
+
+>[as_date() with lubridate](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+[as.hms()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
 [as.integer()](https://linkedin-learning.pxf.io/rweekly_round)
 
 [as.matrix()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)

@@ -1,5 +1,7 @@
 # P {-}
 
+[parse_date_time()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
 [passwords](https://linkedin-learning.pxf.io/rweekly_password)
 
 ## paste() {-}

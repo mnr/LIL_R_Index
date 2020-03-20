@@ -27,3 +27,17 @@
 [load()](https://linkedin-learning.pxf.io/rweekly_loadsave)
 
 [Logical Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
+
+## lubridate{-}
+
+>[mdy_hm()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+>[now()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+>[parse_date_time()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+>[today()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+>[ymd()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+>[ymd_hms()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
