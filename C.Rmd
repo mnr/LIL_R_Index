@@ -54,6 +54,8 @@
 
 [cowsay()](https://linkedin-learning.pxf.io/rweekly_cowsay)
 
+[crossprod()](https://linkedin-learning.pxf.io/rweeklyCrossprod)
+
 [cummax()](https://linkedin-learning.pxf.io/rweekly_CUMminmaxprodsum)
 
 [cummin()](https://linkedin-learning.pxf.io/rweekly_CUMminmaxprodsum)

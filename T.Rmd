@@ -16,6 +16,8 @@
 
 [tar](https://linkedin-learning.pxf.io/rweekly_ziptar)
 
+[tcrossprod()](https://linkedin-learning.pxf.io/rweeklyCrossprod)
+
 [tiff()](linkedin-learning.pxf.io/rweekly_plottofile)
 
 ## trunc{-}
