@@ -1,5 +1,7 @@
 # Y {-}
 
+[year()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 [ymd()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
 
 [ymd_hms()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)

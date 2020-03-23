@@ -24,6 +24,10 @@
 
 [png()](linkedin-learning.pxf.io/rweekly_plottofile)
 
+## POSIXlt
+
+>[...$year](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 [praise()](https://linkedin-learning.pxf.io/rweekly_fun)
 
 [praise_parts](https://linkedin-learning.pxf.io/rweekly_fun)

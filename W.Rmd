@@ -1,5 +1,7 @@
 # W {-}
 
+[wday()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 [weekdays()](https://linkedin-learning.pxf.io/rdatesExtractParts)
 
 [weighted.mean()](linkedin-learning.pxf.io/rweekly_weightedmean)

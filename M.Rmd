@@ -28,6 +28,8 @@
 
 [mine_sweeper()](https://linkedin-learning.pxf.io/rweekly_fun)
 
+[month()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 [months()](https://linkedin-learning.pxf.io/rdatesExtractParts)
 
 [mosiacplot()](https://linkedin-learning.pxf.io/rweekly_mosaicplot)

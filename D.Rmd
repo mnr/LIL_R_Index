@@ -18,6 +18,8 @@
 
 [data sets](https://linkedin-learning.pxf.io/rwkly_dataSets)
 
+[date()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 [dbConnect()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
 
 [dbDisconnect()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
@@ -57,5 +59,7 @@
 [dget()](https://linkedin-learning.pxf.io/rweekly_dputdget)
 
 [dput()](https://linkedin-learning.pxf.io/rweekly_dputdget)
+
+[dst()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
 
 [duplicated()](https://linkedin-learning.pxf.io/rweekly_dup_uniq)

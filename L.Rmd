@@ -6,6 +6,8 @@
 
 > [...vs by()](https://linkedin-learning.pxf.io/rweekly_by)
 
+[leap_year()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 ## length() {-}
 
 > [...vector](https://linkedin-learning.pxf.io/rwkly_vector)
@@ -30,13 +32,29 @@
 
 ## lubridate{-}
 
+>[am()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
+>[date()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
+>[dst()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
+>[leap_year()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 >[mdy_hm()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+>[month()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
 
 >[now()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
 
 >[parse_date_time()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
 
+>[semester()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 >[today()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+>[wday()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
+>[year()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
 
 >[ymd()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
 

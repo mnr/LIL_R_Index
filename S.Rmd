@@ -12,6 +12,8 @@
 
 [select.list()](https://linkedin-learning.pxf.io/rweekly_menu)
 
+[semester()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
 ## sequence dates{-}
 
 >[seq.date() using "by"](https://linkedin-learning.pxf.io/rdatesCutSeq)
