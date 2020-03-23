@@ -14,6 +14,8 @@
 
 [ceiling()](https://linkedin-learning.pxf.io/rweekly_round)
 
+[ceiling_date()](https://linkedin-learning.pxf.io/rdatesLubridateRound)
+
 [chartr()](https://linkedin-learning.pxf.io/rweekly_chartr)
 
 [char.expand()](https://linkedin-learning.pxf.io/rweekly_charexpand)

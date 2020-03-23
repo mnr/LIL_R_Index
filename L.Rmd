@@ -34,9 +34,13 @@
 
 >[am()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
 
+>[ceiling_date()](https://linkedin-learning.pxf.io/rdatesLubridateRound)
+
 >[date()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
 
 >[dst()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
+>[floor_date()](https://linkedin-learning.pxf.io/rdatesLubridateRound)
 
 >[leap_year()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
 
@@ -47,6 +51,10 @@
 >[now()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
 
 >[parse_date_time()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
+
+>[rollback()](https://linkedin-learning.pxf.io/rdatesLubridateRound)
+
+>[round_date()](https://linkedin-learning.pxf.io/rdatesLubridateRound)
 
 >[semester()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
 

@@ -20,6 +20,8 @@
 
 [floor()](https://linkedin-learning.pxf.io/rweekly_round)
 
+[floor_date()](https://linkedin-learning.pxf.io/rdatesLubridateRound)
+
 ##flow control{-}
 
 >[for{}](https://linkedin-learning.pxf.io/rweekly_forloop)
