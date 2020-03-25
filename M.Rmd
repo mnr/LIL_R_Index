@@ -10,7 +10,25 @@
 
 [matplot()](https://linkedin-learning.pxf.io/rweek_matplot)
 
-[Matrix](https://linkedin-learning.pxf.io/rweekly_matrix)
+## matrix{-}
+
+>[%*% ... matrix crossproduct](https://linkedin-learning.pxf.io/rweeklyCrossprod)
+
+>[col()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
+
+>[crossprod()](https://linkedin-learning.pxf.io/rweeklyCrossprod)
+
+>[diag()](https://linkedin-learning.pxf.io/rweeklydiag)
+
+>[isSymmetric()](https://linkedin-learning.pxf.io/rweekly_issymetric)
+
+>[lower.tri()](https://linkedin-learning.pxf.io/rweeklyUpperLowerTri)
+
+>[Matrix](https://linkedin-learning.pxf.io/rweekly_matrix)
+
+>[row()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
+
+>[upper.tri()](https://linkedin-learning.pxf.io/rweeklyUpperLowerTri)
 
 [mdy_hm()](https://linkedin-learning.pxf.io/rdatesLubridateParsing)
 

@@ -9,3 +9,5 @@
 [unlist()](https://linkedin-learning.pxf.io/rweekly_unlist)
 
 [updateR()](https://linkedin-learning.pxf.io/rweekly_update)
+
+[upper.tri()](https://linkedin-learning.pxf.io/rweeklyUpperLowerTri)

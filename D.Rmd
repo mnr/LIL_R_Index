@@ -30,6 +30,12 @@
 
 [dbWriteTable()](https://linkedin-learning.pxf.io/rweekly_rsqlite)
 
+[ddays()](https://linkedin-learning.pxf.io/rdateLubridateMathDurations)
+
+[dhours()](https://linkedin-learning.pxf.io/rdateLubridateMathDurations)
+
+[dminutes()](https://linkedin-learning.pxf.io/rdateLubridateMathDurations)
+
 ## debug{-}
 
 > [debug()](https://linkedin-learning.pxf.io/rweekly_debugonce)

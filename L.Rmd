@@ -30,6 +30,8 @@
 
 [Logical Datatype](https://linkedin-learning.pxf.io/rweekly_atomics)
 
+[lower.tri()](https://linkedin-learning.pxf.io/rweeklyUpperLowerTri)
+
 ## lubridate{-}
 
 >[am()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
@@ -37,6 +39,12 @@
 >[ceiling_date()](https://linkedin-learning.pxf.io/rdatesLubridateRound)
 
 >[date()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
+
+>[ddays()](https://linkedin-learning.pxf.io/rdateLubridateMathDurations)
+
+>[dhours()](https://linkedin-learning.pxf.io/rdateLubridateMathDurations)
+
+>[dminutes()](https://linkedin-learning.pxf.io/rdateLubridateMathDurations)
 
 >[dst()](https://linkedin-learning.pxf.io/rdatesGetSetLubridate)
 

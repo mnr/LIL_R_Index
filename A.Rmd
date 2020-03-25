@@ -44,6 +44,8 @@
 
 [as.matrix()](https://linkedin-learning.pxf.io/rweekly_matrixRowColumn)
 
+[as.difftime()](https://linkedin-learning.pxf.io/rdateLubridateMathDurations)
+
 ## as.POSIX{-}
 
 >[as.POSIXct()](https://linkedin-learning.pxf.io/rdatesHowstored)
